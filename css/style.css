@@ -17,18 +17,14 @@
 }
 
 .subtitle {
-  margin-top: 22px;
   align-self: flex-start;
 }
 
 .contents {
+  margin-top: 1px;
   display: flex;
   flex-direction: column;
   gap: 10px;
-}
-
-.spectral-font {
-    font-family: "Spectral", serif;
 }
 
 a, a:visited {
