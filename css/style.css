@@ -1,5 +1,8 @@
+/* index */
+
 .header-container {
   /*border: 3px solid black;*/
+  height: 80px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +17,7 @@
 }
 
 .subtitle {
-  margin-top: 21px;
+  margin-top: 22px;
   align-self: flex-start;
 }
 
@@ -28,13 +31,9 @@
     font-family: "Spectral", serif;
 }
 
-.poem-body p {
-    margin: 0;
-    line-height: 1.5;
-}
-
 a, a:visited {
   color: black;
+  font-size: 15px;
   text-decoration: none;
 }
 
@@ -42,3 +41,6 @@ a:hover {
   color: black;
   text-decoration: underline;
 }
+
+/* poems */
+
