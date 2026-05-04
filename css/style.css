@@ -9,7 +9,7 @@
 }
 
 .body-container {
-  /*border: 3px solid black;*/
+  border: 3px solid black;
   display: flex;
   align-items: center;
   margin-top: 100px;
@@ -20,7 +20,7 @@
   display:flex;
   flex-direction: column;
   /*align-items: flex-end;*/
-  height: 150px;
+  height: 250px;
   width: 900px;
   margin-left: 50px;
 }
@@ -30,7 +30,7 @@
   display: flex;
   flex-direction: column;
   gap: 15px;
-  margin-top: 102px;
+  margin-top: 51px;
 }
 
 .body-text-bold {
@@ -51,8 +51,18 @@ a:hover {
 
 /* poems */
 
-.poem-container {
+.poem-body {
   border: 3px solid black;
   display: flex;
-  margin-top: 100px;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.poem-title-text {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+pre {
+  font-family: inherit;
 }
