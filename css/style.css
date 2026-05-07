@@ -58,6 +58,8 @@ a:hover {
   justify-content: space-around;
   align-items: center;
   margin-top: 100px;
+  padding: 0 50px;
+  gap: 100px;
 }
 
 .poem-body {
