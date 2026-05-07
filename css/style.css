@@ -9,7 +9,7 @@
 }
 
 .body-container {
-  border: 3px solid black;
+  /*border: 3px solid black;*/
   display: flex;
   align-items: center;
   margin-top: 100px;
@@ -22,7 +22,7 @@
   /*align-items: flex-end;*/
   height: 250px;
   width: 740px;
-  margin-left: 100px;
+  margin-left: 150px;
 }
 
 .contents {
@@ -52,7 +52,7 @@ a:hover {
 /* poems */
 
 .poem-body-container {
-  border: 3px solid black;
+  /*border: 3px solid black;*/
   display: flex;
   justify-content: space-around;
   align-items: center;
