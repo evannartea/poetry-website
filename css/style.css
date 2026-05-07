@@ -20,6 +20,7 @@
   /*border: 3px solid black;*/
   display:flex;
   flex-direction: column;
+  flex-shrink: 0;
   /*align-items: flex-end;*/
   margin-left: 150px;
 }
@@ -28,6 +29,7 @@
   /*border: 3px solid black;*/
   display: flex;
   flex-direction: column;
+  flex-shrink: 0;
   gap: 15px;
 }
 
@@ -61,5 +63,6 @@ a:hover {
   /*border: 3px solid black;*/
   display: flex;
   flex-direction: column;
+  flex-shrink: 0;
 }
 
