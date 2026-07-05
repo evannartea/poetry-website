@@ -16,11 +16,11 @@ A website to showcase my original poetry, exploring the search for beauty and me
 <br>
 The minimalistic design was heavily inspired by *Paperwork: The Potential of Paper in Graphic Design* by Nancy Williams, a book I discovered in the house where I was living in Australia.
 
-<img width="1710" height="983" alt="screenshot_index" src="images/screenshot_index.png"/>
-<img width="1710" height="983" alt="screenshot_poem1" src="images/screenshot_poem1.png"/>
-<img width="1710" height="983" alt="screenshot_poem2" src="images/screenshot_poem2.png" />
-<img width="1710" height="983" alt="screenshot_poem3" src="images/screenshot_poem3.png"/>
-<img width="1710" height="983" alt="screenshot_poem4" src="images/screenshot_poem4.png"/>
-<img width="1710" height="983" alt="screenshot_poem5" src="images/screenshot_poem5.png"/>
-<img width="1710" height="983" alt="screenshot_poem6" src="images/screenshot_poem6.png"/>
-<img width="1710" height="983" alt="screenshot_poem7" src="images/screenshot_poem7.png"/>
+<img width="1710" height="983" alt="Index Screenshot" src="images/screenshot_index.png"/>
+<img width="1710" height="983" alt="Familiar Love Screenshot" src="images/screenshot_familiar_love.png"/>
+<img width="1710" height="983" alt="Haiku Screenshot" src="images/screenshot_haiku.png"/>
+<img width="1710" height="983" alt="Fireflies Screenshot" src="images/screenshot_fireflies.png"/>
+<img width="1710" height="983" alt="Samsara Screenshot" src="images/screenshot_samsara.png"/>
+<img width="1710" height="983" alt="The Colour of Blueberries Screenshot" src="images/screenshot_blueberries.png"/>
+<img width="1710" height="983" alt="Tin Main Screenshot" src="images/screenshot_tin_man.png"/>
+<img width="1710" height="983" alt="Secret Bruises Screenshot" src="images/screenshot_secret_bruises.png"/>
