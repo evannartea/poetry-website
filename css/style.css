@@ -111,6 +111,22 @@ a:hover {
     gap: 5px;
 }
 
+.left-side-poem {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+}
+
+.right-side-poem {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+}
+
 .poem-body {
     display: flex;
     flex-direction: column;
