@@ -31,23 +31,26 @@ header {
 
 main {
     grid-area: main;
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    padding-top: 75px;
 }
 
 .bold-text {
     font-weight: 600;
 }
 
-/* ---------- LEFT SIDE ---------- */
-
-.left-side {
+.left-side,
+.right-side {
     display: flex;
-    flex: 1;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
 
-    padding-top: 75px;
+    padding-left: 300px;
 }
+
+/* ---------- LEFT SIDE ---------- */
 
 .subtitle {
     display: flex;
@@ -60,15 +63,6 @@ p {
 }
 
 /* ---------- RIGHT SIDE ---------- */
-
-.right-side {
-    display: flex;
-    flex: 1;
-    justify-content: center;
-    align-items: flex-start;
-
-    padding-top: 75px;
-}
 
 .contents {
     display: flex;
@@ -108,23 +102,23 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 5px;  
+    gap: 5px;
+
+    padding-bottom: 20px;    
 }
 
 .left-side-poem {
     display: flex;
-    flex: 1;
-    justify-content: center;
-    align-items: center;
-    padding-bottom: 200px;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+    padding-left: 300px;
 }
 
 .right-side-poem {
     display: flex;
-    flex: 1;
     justify-content: center;
-    align-items: center;
-    padding-bottom: 200px;
+    align-items: flex-start;
 }
 
 .poem-body {
@@ -132,6 +126,8 @@ a:hover {
     flex-direction: column;
     flex-shrink: 0;
     gap: 20px;
+
+    box-sizing: border-box;
 }
 .poem-body > div > span {
     font-size: 14px;
