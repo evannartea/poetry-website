@@ -18,7 +18,7 @@ The minimalistic design was heavily inspired by *Paperwork: The Potential of Pap
 
 <img width="1710" height="983" alt="Index Screenshot" src="images/screenshot_index.png"/>
 <img width="1710" height="983" alt="Familiar Love Screenshot" src="images/screenshot_familiar_love.png"/>
-<img width="1710" height="983" alt="Familiar Love Screenshot" src="images/screenshot_lullaby.png"/>
+<!-- <img width="1710" height="983" alt="Familiar Love Screenshot" src="images/screenshot_lullaby.png"/> -->
 <img width="1710" height="983" alt="Haiku Screenshot" src="images/screenshot_haiku.png"/>
 <img width="1710" height="983" alt="Fireflies Screenshot" src="images/screenshot_fireflies.png"/>
 <img width="1710" height="983" alt="Samsara Screenshot" src="images/screenshot_samsara.png"/>
