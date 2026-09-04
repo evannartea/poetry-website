@@ -142,6 +142,11 @@ h2 {
 /* ----------- Mobile ----------- */
 
 @media (max-width: 768px) {
+    .grid-container {
+        height: auto;
+        min-height: 100vh;
+    }
+
     main {
         grid-template-columns: 1fr;
         padding: 40px 24px;
