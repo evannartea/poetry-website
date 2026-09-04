@@ -154,7 +154,9 @@ h2 {
     }
 
     .left-side,
-    .right-side {
+    .right-side,
+    .left-side-poem,
+    .right-side-poem {
         padding-left: 0;
     }
 
