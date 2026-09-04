@@ -138,3 +138,27 @@ a:hover {
 h2 {
     margin: 0;
 }
+
+/* ----------- Mobile ----------- */
+
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr;
+        padding: 40px 24px;
+        gap: 50px;
+    }
+
+    .left-side,
+    .right-side {
+        padding-left: 0;
+    }
+
+    .contents ul {
+        gap: 10px;
+    }
+
+    a,
+    a:visited {
+        font-size: 16px;
+    }
+}
