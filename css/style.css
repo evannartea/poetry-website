@@ -156,8 +156,15 @@ h2 {
     .left-side,
     .right-side,
     .left-side-poem,
-    .right-side-poem {
+    .right-side-poem,
+    .poem-header {
         padding-left: 0;
+    }
+
+    .right-side-poem img {
+        width: 100%;
+        height: auto;
+        display: block;
     }
 
     .contents ul {
@@ -169,3 +176,4 @@ h2 {
         font-size: 16px;
     }
 }
+
