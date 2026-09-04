@@ -161,6 +161,17 @@ h2 {
         padding-left: 0;
     }
 
+    .poem-body {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .poem-body p {
+        max-width: 100%;
+        overflow-wrap: break-word;
+        white-space: normal;
+    }
+
     .right-side-poem img {
         width: 100%;
         height: auto;
@@ -176,4 +187,5 @@ h2 {
         font-size: 16px;
     }
 }
+
 
